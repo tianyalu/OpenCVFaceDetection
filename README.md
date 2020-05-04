@@ -1,4 +1,4 @@
-# `OpenCVFaceDetection`  `OpenCV`人脸检测`C++`项目`Demo`  
+# `OpenCVFaceDetection`  `OpenCV`人脸检测`C++`项目`Demo`  + `LBP `算法
 
 [TOC]
 
